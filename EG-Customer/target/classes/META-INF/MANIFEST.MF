@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Thisith Manaram
+Build-Jdk: 17.0.2
+Implementation-Title: bookstore-spring-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookstore
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/bookstore-spri
+ ng-boot-demo/
+Created-By: Maven Integration for Eclipse
+
